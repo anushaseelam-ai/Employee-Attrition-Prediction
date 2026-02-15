@@ -61,4 +61,4 @@ Since its a binary classification problem, classification algorithm such as
 *3. Distance based models*
 * k-Nearest Neighbor
 * KNN
-#### Linkedin: https://www.linkedin.com/in/suresh-krishna-k/
+
